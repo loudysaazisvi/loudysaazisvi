@@ -4,20 +4,22 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### 🌸 about me
 
+| | |
+|---|---|
+| ✨ | a creative developer who loves turning ideas into reality |
+| 🌷 | currently exploring web development & building cool stuff |
+| 💌 | open to collaborations — let's create something beautiful! |
+| 📍 | Indonesia |
+
 </div>
 
-```
-✨  a creative developer who loves turning ideas into reality
-🌷  currently exploring web development & building cool stuff
-💌  open to collaborations — let's create something beautiful!
-📍  Indonesia
-```
+<br>
 
 ---
 
@@ -25,9 +27,7 @@
 
 ### 💅 tech stack
 
-</div>
-
-<div align="center">
+<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-FF6FAB?style=for-the-badge&logo=react&logoColor=white)
@@ -39,21 +39,22 @@
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
 ### 📊 github stats
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=loudysaazisvi&show_icons=true&theme=tokyonight&title_color=FF6FAB&icon_color=FF9CC2&text_color=e6edf3&bg_color=0d1117&border_color=FF6FAB&border_radius=12" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loudysaazisvi&layout=compact&theme=tokyonight&title_color=FF6FAB&text_color=e6edf3&bg_color=0d1117&border_color=FF6FAB&border_radius=12" height="160"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=loudysaazisvi&show_icons=true&hide_border=true&title_color=FF6FAB&icon_color=FF9CC2&text_color=e6edf3&bg_color=161b22"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loudysaazisvi&layout=compact&hide_border=true&title_color=FF6FAB&text_color=e6edf3&bg_color=161b22"/>
 
 </div>
+
+<br>
 
 ---
 
@@ -61,10 +62,19 @@
 
 ### 🌷 connect with me
 
-[![Email](https://img.shields.io/badge/Email-FF6FAB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loudysaazisvi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9CC2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loudysaazisvi/)
+<br>
+
+<a href="https://mail.google.com/mail/?view=cm&to=loudysaazisvi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF6FAB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/loudysaazisvi/">
+  <img src="https://img.shields.io/badge/LinkedIn-FF9CC2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
+
+<br>
 
 ---
 
