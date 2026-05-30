@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=hi,%20i'm%20dysa%20🌸&fontSize=45&fontAlignY=35&desc=building%20things%20with%20love%20%26%20curiosity&descAlignY=55&descSize=16&fontColor=ffffff" width="100%"/>
+![banner](banner.svg)
 
 </div>
 
@@ -55,30 +55,20 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=loudysaazisvi&theme=tokyonight&background=0d1117&border=FF6FAB&stroke=FF9CC2&ring=FF6FAB&fire=FFB3CC&currStreakLabel=FF9CC2&sideLabels=FF9CC2&dates=8b949e&border_radius=12" height="150"/>
-
-</div>
-
 ---
 
 <div align="center">
 
 ### 🌷 connect with me
 
-[![Email](https://img.shields.io/badge/Email-FF6FAB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9CC2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-FFC2D4?style=for-the-badge&logo=instagram&logoColor=333)](https://instagram.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFE0EB?style=for-the-badge&logo=vercel&logoColor=333)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-FF6FAB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loudysaazisvi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9CC2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loudysaazisvi/)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
 
 *made with 🌸 by dysa*
 
