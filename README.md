@@ -2,13 +2,21 @@
 
 ![banner](banner.svg)
 
+<br>
+
+![typing](typing.svg)
+
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
 ### 🌸 about me
+
+<br>
 
 | | |
 |---|---|
@@ -36,21 +44,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-FFC2D4?style=for-the-badge&logo=css3&logoColor=333)
 ![Figma](https://img.shields.io/badge/Figma-FF6FAB?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF9CC2?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 📊 github stats
-
-<br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=loudysaazisvi&show_icons=true&hide_border=true&title_color=FF6FAB&icon_color=FF9CC2&text_color=e6edf3&bg_color=161b22"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loudysaazisvi&layout=compact&hide_border=true&title_color=FF6FAB&text_color=e6edf3&bg_color=161b22"/>
 
 </div>
 

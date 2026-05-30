@@ -1,0 +1,29 @@
+<svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6fa8"/>
+      <stop offset="100%" style="stop-color:#ffb3cc"/>
+    </linearGradient>
+  </defs>
+
+  <!-- typing text lines shown one by one -->
+  <text x="0" y="30" font-family="'Courier New', monospace" font-size="17" fill="url(#tg)" opacity="0">
+    💻 coding something pink &amp; pretty...
+    <animate attributeName="opacity" values="0;0;1;1;1;1;0" dur="9s" repeatCount="indefinite" begin="0s"/>
+  </text>
+  <text x="0" y="30" font-family="'Courier New', monospace" font-size="17" fill="url(#tg)" opacity="0">
+    🌸 turning caffeine into code...
+    <animate attributeName="opacity" values="0;0;0;1;1;1;0" dur="9s" repeatCount="indefinite" begin="3s"/>
+  </text>
+  <text x="0" y="30" font-family="'Courier New', monospace" font-size="17" fill="url(#tg)" opacity="0">
+    ✨ dreaming in pastel &amp; debugging in pink...
+    <animate attributeName="opacity" values="0;0;0;1;1;1;0" dur="9s" repeatCount="indefinite" begin="6s"/>
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="0" y="10" width="2" height="22" fill="#ff6fa8">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="340,0;340,0" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
